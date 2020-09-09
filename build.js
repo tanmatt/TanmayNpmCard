@@ -21,7 +21,7 @@ const data = {
   //opensource: chalk.white('Node.js Community Committee ') + chalk.green('⬢'),
   //twitter: chalk.gray('https://twitter.com/') + chalk.cyan('tanmay'),
   //npm: chalk.gray('https://npmjs.com/') + chalk.red('~tanmay'),
-  github: chalk.gray('https://github.com/') + chalk.green('tanmaythakur2'),
+  github: chalk.gray('https://github.com/') + chalk.green('tanmaythakur'),
   linkedin: chalk.gray('https://linkedin.com/in/') + chalk.blue('tanmaythakur2'),
   //web: chalk.cyan('https://tanmaythakur.com'),
   npx: chalk.red('npx') + ' ' + chalk.white('tanmay  (via GitHub Package Registry)'),
